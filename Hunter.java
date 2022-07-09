@@ -1,8 +1,3 @@
-/**
-* Hunter Class<br /><br />
-* This class represents the treasure hunter character (the player) in the Treasure Hunt game.
-* This code has been adapted from Ivan Turner's original program -- thank you Mr. Turner!
-*/
 public class Hunter
 {
   //Keeps the items in the kit separate

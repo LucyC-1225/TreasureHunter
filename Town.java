@@ -1,8 +1,3 @@
-/**
-* The Town Class is where it all happens.
-* The Town is designed to manage all of the things a Hunter can do in town.
-* This code has been adapted from Ivan Turner's original program -- thank you Mr. Turner!
-*/
 public class Town
 {
   //instance variables
